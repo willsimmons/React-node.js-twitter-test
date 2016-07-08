@@ -1,8 +1,10 @@
 module.exports = {
   twitter: {
-    consumer_key: 'RhRQyKrFWPU20XgAb4F6IFUEj',
-    consumer_secret: 'qx1ySDEa6mniEB1zeAMabw2dKiuSFrcXscNvCdKa83NRcz2reC',
-    access_token_key: '303940540-0FdyaibQSZQkIVJcuRLq42jwGhxL7KmIuitFpESy',
-    access_token_secret: 'oQrOkpgWm49TwgDIRW2H4wGH1pqeRiuBpLId2iBATXLWA'
+    consumer_key: PUT KEYS HERE,
+    consumer_secret: PUT KEYS HERE,
+    access_token_key: PUT KEYS HERE,
+    access_token_secret: PUT KEYS HERE'
   }
 }
+
+// don't forget to put this into gitignore file!
